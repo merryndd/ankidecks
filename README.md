@@ -4,7 +4,7 @@ This repository contains Anki decks made by me based on existing resources. The 
 
 | Filename | Target language | Question language | Source | Focus | Orthography |
 |-|-|-|-|-|-|
-| `b21.apkg` | Breton | French | brezhoneg21.com | Technical vocabulary | peurunvan |
+| `b21.apkg` | Breton | French | [brezhoneg21.com](http://brezhoneg21.com) | Technical vocabulary | peurunvan |
 | `bha.apkg` | Breton | English | Denez/Delaporte, _Brezhoneg … buan hag aes_, 1977 | Basic vocabulary | peurunvan |
 | `clappya.apkg` | Cornish | English | Williams, _Clappya Kernowek_, 1997 | General vocabulary | UCR |
 | `syntaxe.apkg` | Breton | French | Davalan, _Hentenn Oulpan 1_, 2000 | Sentence structure | peurunvan |
